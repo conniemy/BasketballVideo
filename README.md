@@ -1,4 +1,5 @@
 # BasketballVideo
+
 ## Dataset for basketball video summarization
 ### Content
 * `100NBAVideo` 
@@ -22,6 +23,16 @@ We edited the above 55 basketball game videos to about 220 short videos for vide
 
 Baidu Yun：https://pan.baidu.com/s/1glSeUaTVVnnD4ROpNbGOsg 
 PIN：ncvq 
+
+## Contact.
+This dataset is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+​​You are free to:​​
+### Share​​ — copy and redistribute the material in any medium or format.
+### ​​Adapt​​ — remix, transform, and build upon the material.
+​​Under the following terms:​​
+​​Attribution​​ — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+​​NonCommercial​​ — You may not use the material for commercial purposes.
+​​No additional restrictions​​ — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 ## Contact.
 This repository is maintained by Naye Ji (conniemy). Feel free to reach out directly at jinaye@cuz.edu.cn with any questions or comments.
